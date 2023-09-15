@@ -1,0 +1,11 @@
+C:\Projetos\CaluculadoraForms\CaluculadoraForms\bin\Debug\CaluculadoraForms.exe.config
+C:\Projetos\CaluculadoraForms\CaluculadoraForms\bin\Debug\CaluculadoraForms.exe
+C:\Projetos\CaluculadoraForms\CaluculadoraForms\bin\Debug\CaluculadoraForms.pdb
+C:\Projetos\CaluculadoraForms\CaluculadoraForms\obj\Debug\CalculadoraForms.csproj.AssemblyReference.cache
+C:\Projetos\CaluculadoraForms\CaluculadoraForms\obj\Debug\CalculadoraForms.csproj.SuggestedBindingRedirects.cache
+C:\Projetos\CaluculadoraForms\CaluculadoraForms\obj\Debug\CaluculadoraForms.Calculadora.resources
+C:\Projetos\CaluculadoraForms\CaluculadoraForms\obj\Debug\CaluculadoraForms.Properties.Resources.resources
+C:\Projetos\CaluculadoraForms\CaluculadoraForms\obj\Debug\CalculadoraForms.csproj.GenerateResource.cache
+C:\Projetos\CaluculadoraForms\CaluculadoraForms\obj\Debug\CalculadoraForms.csproj.CoreCompileInputs.cache
+C:\Projetos\CaluculadoraForms\CaluculadoraForms\obj\Debug\CaluculadoraForms.exe
+C:\Projetos\CaluculadoraForms\CaluculadoraForms\obj\Debug\CaluculadoraForms.pdb
